@@ -1,0 +1,656 @@
+[
+    {
+        "id": "1",
+        "artist": "Mr.Credo",
+        "title": "\u0427\u0443\u0434\u043d\u0430\u044f \u0434\u043e\u043b\u0438\u043d\u0430",
+        "duration": 333
+    },
+    {
+        "id": "2",
+        "artist": "\u0425\u0430\u0441\u043a\u0438",
+        "title": "\u041e \u043b\u044e\u0431\u0432\u0438",
+        "duration": 161
+    },
+    {
+        "id": "3",
+        "artist": "Mr.Credo",
+        "title": "\u041c\u0435\u0434\u043b\u044f\u043a",
+        "duration": 269
+    },
+    {
+        "id": "4",
+        "artist": "Michael Jackson",
+        "title": "Billie Jean",
+        "duration": 292
+    },
+    {
+        "id": "5",
+        "artist": "Aphex Twin",
+        "title": "Equation",
+        "duration": 347
+    },
+    {
+        "id": "6",
+        "artist": "Big Baby Tape, Aarne",
+        "title": "HOODAK MP3",
+        "duration": 203
+    },
+    {
+        "id": "7",
+        "artist": "\u0411\u043b\u0435\u0441\u0442\u044f\u0449\u0438\u0435, Arash",
+        "title": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0435 \u0441\u043a\u0430\u0437\u043a\u0438",
+        "duration": 205
+    },
+    {
+        "id": "8",
+        "artist": "Cream Soda, \u0425\u043b\u0435\u0431",
+        "title": "\u041f\u043b\u0430\u0447\u0443 \u043d\u0430 \u0442\u0435\u0445\u043d\u043e",
+        "duration": 160
+    },
+    {
+        "id": "9",
+        "artist": "INTERWORLD",
+        "title": "METAMORPHOSIS",
+        "duration": 142
+    },
+    {
+        "id": "10",
+        "artist": "KORDHELL",
+        "title": "MURDER IN MY MIND",
+        "duration": 145
+    },
+    {
+        "id": "11",
+        "artist": "The Prodigy",
+        "title": "Breathe",
+        "duration": 334
+    },
+    {
+        "id": "12",
+        "artist": "\u0421\u0438\u0434\u043e\u0434\u0436\u0438 \u0414\u0443\u0431\u043eshit, \u0413\u0440\u044f\u0437\u043d\u044b\u0439 \u0420\u0430\u043c\u0438\u0440\u0435\u0441",
+        "title": "\u0414\u0436\u0438\u043d Grey",
+        "duration": 214
+    },
+    {
+        "id": "13",
+        "artist": "\u041c\u0438\u0445\u0435\u0439 \u0438 \u0414\u0436\u0443\u043c\u0430\u043d\u0434\u0436\u0438, \u0418\u043d\u043d\u0430 \u0421\u0442\u0438\u043b",
+        "title": "\u0422\u0443\u0434\u0430",
+        "duration": 292
+    },
+    {
+        "id": "14",
+        "artist": "\u041c\u0438\u0445\u0435\u0439 \u0438 \u0414\u0436\u0443\u043c\u0430\u043d\u0434\u0436\u0438",
+        "title": "\u0421\u0443\u043a\u0430-\u043b\u044e\u0431\u043e\u0432\u044c",
+        "duration": 290
+    },
+    {
+        "id": "15",
+        "artist": "\u042e\u0440\u0456\u0439 \u0413\u0443\u043b\u044f\u0454\u0432",
+        "title": "\u041a\u0438\u0454\u0432\u0435 \u043c\u0456\u0439",
+        "duration": 254
+    },
+    {
+        "id": "16",
+        "artist": "Mr.Credo",
+        "title": "\u0410\u043c\u0444\u0435\u0442\u0430\u043c\u0438\u043d",
+        "duration": 262
+    },
+    {
+        "id": "17",
+        "artist": "Fleetwood Mac",
+        "title": "Everywhere",
+        "duration": 227
+    },
+    {
+        "id": "18",
+        "artist": "Down Under",
+        "title": "Men At Work",
+        "duration": 225
+    },
+    {
+        "id": "19",
+        "artist": "\u0434\u043e\u0440\u0430",
+        "title": "\u0412\u0442\u044e\u0440\u0438\u043b\u0430\u0441\u044c",
+        "duration": 123
+    },
+    {
+        "id": "20",
+        "artist": "\u0434\u043e\u0440\u0430",
+        "title": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
+        "duration": 134
+    },
+    {
+        "id": "21",
+        "artist": "\u0425\u0430\u0441\u043a\u0438",
+        "title": "\u0418\u0443\u0434\u0430",
+        "duration": 135
+    },
+    {
+        "id": "22",
+        "artist": "Chris Isaak",
+        "title": "Can't Do a Thing",
+        "duration": 238
+    },
+    {
+        "id": "23",
+        "artist": "Chris Isaak",
+        "title": "Blue Hotel",
+        "duration": 192
+    },
+    {
+        "id": "24",
+        "artist": "Grimes",
+        "title": "Shinigami Eyes",
+        "duration": 159
+    },
+    {
+        "id": "25",
+        "artist": "A-Dessa",
+        "title": "\u0424\u0430\u044f, \u043d\u0435\u0442 \u0432\u0430\u0439-\u0444\u0430\u044f",
+        "duration": 215
+    },
+    {
+        "id": "26",
+        "artist": "Madonna",
+        "title": "La Isla Bonita",
+        "duration": 242
+    },
+    {
+        "id": "27",
+        "artist": "Michael Jackson",
+        "title": "You Are Not Alone",
+        "duration": 168
+    },
+    {
+        "id": "28",
+        "artist": "\u0411\u0440\u0430\u0432\u043e",
+        "title": "\u041b\u044e\u0431\u0438\u0442\u0435, \u0434\u0435\u0432\u0443\u0448\u043a\u0438",
+        "duration": 162
+    },
+    {
+        "id": "29",
+        "artist": "\u041a\u0438\u043d\u043e",
+        "title": "\u041f\u0435\u0440\u0435\u043c\u0435\u043d",
+        "duration": 295
+    },
+    {
+        "id": "30",
+        "artist": "\u041a\u0438\u043d\u043e",
+        "title": "\u041f\u0430\u0447\u043a\u0430 \u0441\u0438\u0433\u0430\u0440\u0435\u0442",
+        "duration": 269
+    },
+    {
+        "id": "31",
+        "artist": "\u0411\u0440\u0430\u0432\u043e",
+        "title": "\u0421\u0442\u0430\u0440\u044b\u0439 \u043e\u0442\u0435\u043b\u044c",
+        "duration": 235
+    },
+    {
+        "id": "32",
+        "artist": "\u041b\u0421\u041f, Oxxxymiron",
+        "title": "\u0411\u0435\u0437\u0443\u043c\u0438\u0435",
+        "duration": 225
+    },
+    {
+        "id": "33",
+        "artist": "\u041d\u044d\u043d\u0441\u0438",
+        "title": "\u0414\u044b\u043c \u0441\u0438\u0433\u0430\u0440\u0435\u0442 \u0441 \u043c\u0435\u043d\u0442\u043e\u043b\u043e\u043c",
+        "duration": 363
+    },
+    {
+        "id": "34",
+        "artist": "Madcon",
+        "title": "Beggin'",
+        "duration": 215
+    },
+    {
+        "id": "35",
+        "artist": "Maya Buskila",
+        "title": "Get through the day",
+        "duration": 248
+    },
+    {
+        "id": "36",
+        "artist": "Mr.Kitty",
+        "title": "After Dark'",
+        "duration": 257
+    },
+    {
+        "id": "37",
+        "artist": "Fred again...",
+        "title": "Marea",
+        "duration": 285
+    },
+    {
+        "id": "38",
+        "artist": "Duke Dumont",
+        "title": "Ocean Drive",
+        "duration": 206
+    },
+    {
+        "id": "39",
+        "artist": "PPK",
+        "title": "Robots Outro",
+        "duration": 101
+    },
+    {
+        "id": "40",
+        "artist": "g3ox_em",
+        "title": "GigaChad Theme",
+        "duration": 146
+    },
+    {
+        "id": "41",
+        "artist": "Edward Maya, Vika Jigulina",
+        "title": "Stereo Love",
+        "duration": 183
+    },
+    {
+        "id": "42",
+        "artist": "Flo Rida, T-Pain",
+        "title": "Low",
+        "duration": 230
+    },
+    {
+        "id": "43",
+        "artist": "Modern Talking",
+        "title": "You're My Heart, You're My Soul",
+        "duration": 332
+    },
+    {
+        "id": "44",
+        "artist": "\u041f\u043e\u0440\u043d\u043e\u0444\u0438\u043b\u044c\u043c\u044b",
+        "title": "\u041f\u0440\u043e\u0441\u0442\u0438. \u041f\u0440\u043e\u0449\u0430\u0439. \u041f\u0440\u0438\u0432\u0435\u0442",
+        "duration": 309
+    },
+    {
+        "id": "45",
+        "artist": "IC3PEAK",
+        "title": "\u041f\u043b\u0430\u043a-\u043f\u043b\u0430\u043a",
+        "duration": 203
+    },
+    {
+        "id": "46",
+        "artist": "Dr. Alban",
+        "title": "It's My Life",
+        "duration": 240
+    },
+    {
+        "id": "47",
+        "artist": "Imagine Dragons",
+        "title": "Believer",
+        "duration": 204
+    },
+    {
+        "id": "48",
+        "artist": "\u0417\u0432\u0435\u0440\u0438",
+        "title": "\u0420\u0430\u0439\u043e\u043d\u044b-\u043a\u0432\u0430\u0440\u0442\u0430\u043b\u044b",
+        "duration": 204
+    },
+    {
+        "id": "49",
+        "artist": "\u0411\u0443\u0435\u0440\u0430\u043a",
+        "title": "\u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043e\u0447\u043a\u0438",
+        "duration": 134
+    },
+    {
+        "id": "50",
+        "artist": "\u0411\u0443\u0435\u0440\u0430\u043a",
+        "title": "\u041a\u0443\u043b\u044c\u0442 \u0442\u0435\u043b\u0430",
+        "duration": 160
+    },
+    {
+        "id": "51",
+        "artist": "Chet Baker",
+        "title": "My Heart Stood Still",
+        "duration": 208
+    },
+    {
+        "id": "52",
+        "artist": "\u0418\u0432\u0430\u043d \u0414\u043e\u0440\u043d",
+        "title": "\u0421\u0442\u044b\u0446\u0430\u043c\u044d\u043d",
+        "duration": 232
+    },
+    {
+        "id": "53",
+        "artist": "\u0418\u0432\u0430\u043d \u0414\u043e\u0440\u043d",
+        "title": "\u0422\u0435\u043b\u0435\u043f\u043e\u0440\u0442",
+        "duration": 244
+    },
+    {
+        "id": "54",
+        "artist": "Rihanna, Jay-Z",
+        "title": "Umbrella",
+        "duration": 251
+    },
+    {
+        "id": "55",
+        "artist": "Modjo",
+        "title": "Lady (Hear Me Tonight)",
+        "duration": 307
+    },
+    {
+        "id": "56",
+        "artist": "Savage",
+        "title": "Only You",
+        "duration": 231
+    },
+    {
+        "id": "57",
+        "artist": "Boney M",
+        "title": "Daddy Cool",
+        "duration": 208
+    },
+    {
+        "id": "58",
+        "artist": "F.R. David",
+        "title": "Pick Up the Phone",
+        "duration": 193
+    },
+    {
+        "id": "59",
+        "artist": "Lipps, Inc.",
+        "title": "Funkytown'",
+        "duration": 470
+    },
+    {
+        "id": "60",
+        "artist": "INSTASAMKA",
+        "title": "\u0417\u0410 \u0414\u0415\u041d\u042c\u0413\u0418 \u0414\u0410",
+        "duration": 119
+    },
+    {
+        "id": "61",
+        "artist": "Nirvana",
+        "title": "Smells Like Teen Spirit",
+        "duration": 301
+    },
+    {
+        "id": "62",
+        "artist": "Nirvana",
+        "title": "Come As You Are",
+        "duration": 220
+    },
+    {
+        "id": "63",
+        "artist": "Nirvana",
+        "title": "The Man Who Sold The World",
+        "duration": 261
+    },
+    {
+        "id": "64",
+        "artist": "Nickelback",
+        "title": "How You Remind Me",
+        "duration": 224
+    },
+    {
+        "id": "65",
+        "artist": "Red Hot Chili Peppers",
+        "title": "Can't Stop",
+        "duration": 269
+    },
+    {
+        "id": "66",
+        "artist": "Calvin Harris",
+        "title": "My Way",
+        "duration": 219
+    },
+    {
+        "id": "67",
+        "artist": "Rihanna, Calvin Harris",
+        "title": "We Found Love",
+        "duration": 215
+    },
+    {
+        "id": "68",
+        "artist": "Laura Branigan",
+        "title": "Self Control",
+        "duration": 246
+    },
+    {
+        "id": "69",
+        "artist": "Boogrov",
+        "title": "Pomni",
+        "duration": 328
+    },
+    {
+        "id": "70",
+        "artist": "Flo Rida, Kesha",
+        "title": "Right Round",
+        "duration": 207
+    },
+    {
+        "id": "71",
+        "artist": "Nelly Furtado",
+        "title": "Say It Right",
+        "duration": 214
+    },
+    {
+        "id": "72",
+        "artist": "Nelly Furtado",
+        "title": "All Good Things (Come To An End)",
+        "duration": 263
+    },
+    {
+        "id": "73",
+        "artist": "Madonna",
+        "title": "Vogue",
+        "duration": 317
+    },
+    {
+        "id": "74",
+        "artist": "\u0422\u0430\u043d\u0446\u044b \u041c\u0438\u043d\u0443\u0441",
+        "title": "\u0413\u043e\u0440\u043e\u0434",
+        "duration": 250
+    },
+    {
+        "id": "75",
+        "artist": "Shaman King",
+        "title": "Shaman King",
+        "duration": 57
+    },
+    {
+        "id": "76",
+        "artist": "Shaman",
+        "title": "\u042f \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+        "duration": 210
+    },
+    {
+        "id": "77",
+        "artist": "ABBA",
+        "title": "Gimme, Gimme, Gimme",
+        "duration": 288
+    },
+    {
+        "id": "78",
+        "artist": "AC/DC",
+        "title": "Back in Black",
+        "duration": 255
+    },
+    {
+        "id": "79",
+        "artist": "AC/DC",
+        "title": "Highway to Hell",
+        "duration": 208
+    },
+    {
+        "id": "80",
+        "artist": "Adriano Celentano",
+        "title": "Il Tempo Se Ne Va",
+        "duration": 231
+    },
+    {
+        "id": "81",
+        "artist": "Adriano Celentano",
+        "title": "Soli",
+        "duration": 247
+    },
+    {
+        "id": "82",
+        "artist": "Aphex Twin",
+        "title": "Ageispolis",
+        "duration": 323
+    },
+    {
+        "id": "83",
+        "artist": "Baltra",
+        "title": "Never Let Go Of Me",
+        "duration": 414
+    },
+    {
+        "id": "84",
+        "artist": "Belinda Carlisle",
+        "title": "Circle In The Sand",
+        "duration": 220
+    },
+    {
+        "id": "85",
+        "artist": "Cutting Crew",
+        "title": "I Just Died in Your Arms Tonight",
+        "duration": 265
+    },
+    {
+        "id": "86",
+        "artist": "Depeche Mode",
+        "title": "Personal Jesus",
+        "duration": 226
+    },
+    {
+        "id": "87",
+        "artist": "Die Antwoord",
+        "title": "I Fink U Freeky",
+        "duration": 280
+    },
+    {
+        "id": "88",
+        "artist": "Die Antwoord",
+        "title": "Ugly Boy",
+        "duration": 213
+    },
+    {
+        "id": "89",
+        "artist": "Enigma",
+        "title": "Sadeness",
+        "duration": 260
+    },
+    {
+        "id": "90",
+        "artist": "Enigma",
+        "title": "Why",
+        "duration": 299
+    },
+    {
+        "id": "91",
+        "artist": "Gesaffelstein",
+        "title": "Opr",
+        "duration": 234
+    },
+    {
+        "id": "92",
+        "artist": "Gesaffelstein, The_Weeknd",
+        "title": "Lost in the Fire",
+        "duration": 202
+    },
+    {
+        "id": "93",
+        "artist": "\u041a\u0430\u0441\u043f\u0438\u0439\u0441\u043a\u0438\u0439 \u0433\u0440\u0443\u0437",
+        "title": "\u0422\u0430\u0431\u043e\u0440 \u0443\u0445\u043e\u0434\u0438\u0442 \u0432 \u043d\u0435\u0431\u043e",
+        "duration": 208
+    },
+    {
+        "id": "94",
+        "artist": "\u041a\u0438\u043d\u043e",
+        "title": "\u0413\u0440\u0443\u043f\u043f\u0430 \u043a\u0440\u043e\u0432\u0438",
+        "duration": 239
+    },
+    {
+        "id": "95",
+        "artist": "\u043a\u0438\u0441-\u043a\u0438\u0441",
+        "title": "\u043c\u0430\u043b\u044c\u0447\u0438\u043a",
+        "duration": 182
+    },
+    {
+        "id": "96",
+        "artist": "\u041a\u043e\u0440\u043e\u043b\u044c \u0438 \u0428\u0443\u0442",
+        "title": "\u041a\u0443\u043a\u043b\u0430 \u043a\u043e\u043b\u0434\u0443\u043d\u0430",
+        "duration": 203
+    },
+    {
+        "id": "97",
+        "artist": "Lilly Wood & the Prick",
+        "title": "Prayer In C",
+        "duration": 190
+    },
+    {
+        "id": "98",
+        "artist": "Lost Frequencies",
+        "title": "Are You with Me",
+        "duration": 137
+    },
+    {
+        "id": "99",
+        "artist": "Moby",
+        "title": "Natural Blues",
+        "duration": 253
+    },
+    {
+        "id": "100",
+        "artist": "\u041f\u043e\u0448\u043b\u0430\u044f \u041c\u043e\u043b\u043b\u0438",
+        "title": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
+        "duration": 204
+    },
+    {
+        "id": "101",
+        "artist": "Sandra",
+        "title": "In The Heat Of The Night",
+        "duration": 240
+    },
+    {
+        "id": "102",
+        "artist": "Sandra",
+        "title": "Maria Magdalena",
+        "duration": 239
+    },
+    {
+        "id": "103",
+        "artist": "The La's",
+        "title": "There She Goes",
+        "duration": 161
+    },
+    {
+        "id": "104",
+        "artist": "The Mamas & The Papas",
+        "title": "California Dreamin'",
+        "duration": 159
+    },
+    {
+        "id": "105",
+        "artist": "The Prodigy",
+        "title": "Voodoo People",
+        "duration": 387
+    },
+    {
+        "id": "106",
+        "artist": "\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d \u0421\u0442\u0440\u044b\u043a\u0430\u043b\u043e",
+        "title": "\u041a\u0430\u0439\u0435\u043d",
+        "duration": 181
+    },
+    {
+        "id": "107",
+        "artist": "\u0412\u0430\u043b\u0435\u043d\u0442\u0438\u043d \u0421\u0442\u0440\u044b\u043a\u0430\u043b\u043e",
+        "title": "\u041d\u0430\u0448\u0435 \u043b\u0435\u0442\u043e",
+        "duration": 208
+    },
+    {
+        "id": "108",
+        "artist": "Corona",
+        "title": "Rhythm Of The Night",
+        "duration": 260
+    },
+    {
+        "id": "109",
+        "artist": "\u0423\u041d\u041d\u0412",
+        "title": "\u041e\u0441\u0435\u043d\u044c \u0440\u0430\u0437\u043e\u0440\u0432\u0430\u043b\u0441\u044f \u044f\u0434\u0435\u0440\u043d\u044b\u0439 \u0433\u0440\u0438\u0431",
+        "duration": 209
+    }
+]
